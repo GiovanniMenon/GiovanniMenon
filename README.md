@@ -1,7 +1,7 @@
 # Hello, I’m @GiovanniMenon
-- 📚 Currently studying for the bachelor in CS at the university of Padua.
-- 👀 VR and cybersecurity enthusiast. 
-- :joystick: I'm currently working on a game project for Vr HeadSet.
+- 📚 Currently studying CS at the university of Padua.
+- 👀 VR and Cybersecurity enthusiast. 
+- :joystick: I'm currently working on a Flutter Project.
 
 
 <!---
