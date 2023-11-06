@@ -1,7 +1,8 @@
-# Hello, I’m @GiovanniMenon
-- 📚 Currently studying CS at the university of Padua.
-- 👀 VR and Cybersecurity enthusiast. 
-- :joystick: I'm currently working on a Flutter Project.
+👋 Hey there, I'm <b>@GiovanniMenon</b>, currently studying Computer Science at the University of Padua.
+
+🚀 Virtual Reality and Cybersecurity are my fav topics. Right now, I'm diving into Dart on my own and getting practical with a Flutter Project.
+
+🌐 You can also find me on [LinkedIn](https://www.linkedin.com/in/giovanni-menon/).
 
 
 <!---
